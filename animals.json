@@ -1,42 +1,52 @@
 [{
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 },
 {
 	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
+	"type": "cat",
+	"color": "green"
 },
 {
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 },
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 },
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
+	"type": "hamster",
+	"color": "silver"
 },
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
+	"type": "hamster",
+	"color": "silver"
 },
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 }, 
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 },  
 {
 	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
@@ -44,23 +54,28 @@
 },
 {
 	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow"
+	"type": "cow", 
+	"color": "yellow"
 },  
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 }, 
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
+	"type": "hamster",
+	"color": "silver"
 }, 
 {
 	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
@@ -68,11 +83,13 @@
 },
 {
 	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow"
+	"type": "cow", 
+	"color": "yellow"
 }, 
 {
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 },
 {
 	"imgUrl": "http://guesstheemoji-movies-answers.com/wp-content/uploads/2014/06/guess-the-emoji-movies-sm-247.jpg", 
@@ -80,19 +97,23 @@
 }, 
 {
 	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow"
+	"type": "cow", 
+	"color": "yellow"
 }, 
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 }, 
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
+	"type": "hamster",
+	"color": "silver"
 }, 
 {
 	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
@@ -100,19 +121,23 @@
 },
 {
 	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow"
+	"type": "cow", 
+	"color": "yellow"
 }, 
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 }, 
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
+	"type": "hamster",
+	"color": "silver"
 }, 
 {
 	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
@@ -120,11 +145,13 @@
 },
 {
 	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
+	"type": "cat",
+	"color": "green"
 },
 {
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 },
 {
 	"imgUrl": "http://guesstheemoji-movies-answers.com/wp-content/uploads/2014/06/guess-the-emoji-movies-sm-247.jpg", 
@@ -132,11 +159,13 @@
 }, 
 {
 	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
+	"type": "cat",
+	"color": "green"
 },
 {
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 },
 {
 	"imgUrl": "http://guesstheemoji-movies-answers.com/wp-content/uploads/2014/06/guess-the-emoji-movies-sm-247.jpg", 
@@ -144,15 +173,18 @@
 }, 
 {
 	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
+	"type": "cat",
+	"color": "green"
 },
 {
 	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
+	"type": "cat",
+	"color": "green"
 },
 {
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 },
 {
 	"imgUrl": "http://guesstheemoji-movies-answers.com/wp-content/uploads/2014/06/guess-the-emoji-movies-sm-247.jpg", 
@@ -160,63 +192,28 @@
 }, 
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 }, 
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
+	"type":"meerkat",
+	"color": "purple"
 }, 
 {
 	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
+	"type": "hamster",
+	"color": "silver"
 },
 {
 	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
+	"type": "pig",
+	"color": "orange"
 }, 
 {
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
-},  
-{
-	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
-	"type": "rat"
-},
-{
-	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow"
-}, 
-{
-	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
-}, 
-{
-	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
-},
-{
-	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
-}, 
-{
-	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster"
-},
-{
-	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
-},
-{
-	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig"
-}, 
-{
-	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat"
-},
-{
-	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat"
+	"type":"meerkat",
+	"color": "purple"
 },  
 {
 	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
@@ -224,9 +221,60 @@
 },
 {
 	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow"
+	"type": "cow", 
+	"color": "yellow"
+}, 
+{
+	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
+	"type":"meerkat",
+	"color": "purple"
+}, 
+{
+	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
+	"type": "hamster",
+	"color": "silver"
+},
+{
+	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
+	"type":"meerkat",
+	"color": "purple"
+}, 
+{
+	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
+	"type": "hamster",
+	"color": "silver"
+},
+{
+	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
+	"type": "cat",
+	"color": "green"
+},
+{
+	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
+	"type": "pig",
+	"color": "orange"
+}, 
+{
+	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
+	"type":"meerkat",
+	"color": "purple"
+},
+{
+	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
+	"type": "cat",
+	"color": "green"
+},  
+{
+	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
+	"type": "rat"
+},
+{
+	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
+	"type": "cow", 
+	"color": "yellow"
 }, 
 {
 	"imgUrl": "http://www.sherv.net/cm/emo/dancing/crazy-happy-dog-smiley-emoticon.gif",
-	"type": "dog"
+	"type": "dog", 
+	"color": "blue"
 }]
