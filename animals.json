@@ -29,25 +29,6 @@
 	"color": "silver"
 },
 {
-	"imgUrl": "http://fc00.deviantart.net/fs7/i/2005/203/0/7/Rat_Icon_by_cricket00fur.gif",
-	"type": "rat"
-},
-{
-	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
-	"type": "cow", 
-	"color": "yellow"
-},  
-{
-	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat",
-	"color": "purple"
-}, 
-{
-	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig",
-	"color": "orange"
-}, 
-{
 	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
 	"type":"meerkat",
 	"color": "purple"
@@ -209,36 +190,6 @@
 	"type":"meerkat",
 	"color": "purple"
 }, 
-{
-	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster",
-	"color": "silver"
-},
-{
-	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat",
-	"color": "purple"
-}, 
-{
-	"imgUrl": "http://th14.photobucket.com/albums/a312/califleek/icons/th_hamster.gif", 
-	"type": "hamster",
-	"color": "silver"
-},
-{
-	"imgUrl": "http://a.deviantart.net/avatars/p/i/pikiyo.png?3",
-	"type": "cat",
-	"color": "green"
-},
-{
-	"imgUrl": "https://chinesefontdesign.com/wp-content/uploads/2014/04/1748.gif", 
-	"type": "pig",
-	"color": "orange"
-}, 
-{
-	"imgUrl": "http://ecx.images-amazon.com/images/I/41tn-mgULbL._SL75_SS50_.jpg", 
-	"type":"meerkat",
-	"color": "purple"
-},
 {
 	"imgUrl": "http://www.abeka.com/BookImages/ClipArt/212571/46x46y50fx50fh/212571-Black-and-white-spotted-milk-cow-color-png.png", 
 	"type": "cow", 
